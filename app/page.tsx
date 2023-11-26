@@ -4,7 +4,6 @@ import { redirect } from 'next/navigation'
 import { useState, useEffect } from 'react'
 
 import Nominations from './ui/nominations'
-import Submit from './ui/submit'
 
 export default function Home() {
     const [data, setData] = useState(null)

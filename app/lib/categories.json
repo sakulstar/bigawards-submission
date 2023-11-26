@@ -1,0 +1,368 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"attributes": {
+				"title": "General Categories",
+				"createdAt": "2023-11-18T09:46:23.879Z",
+				"updatedAt": "2023-11-18T09:53:47.854Z",
+				"publishedAt": "2023-11-18T09:46:25.408Z",
+				"color": "E84F8E",
+				"categories": {
+					"data": [
+						{
+							"id": 1,
+							"attributes": {
+								"title": "Dumbest GSS Moment",
+								"description": "Dumbest get smarter Saturdays moment",
+								"type": "link",
+								"createdAt": "2023-11-18T09:49:10.794Z",
+								"updatedAt": "2023-11-18T12:04:59.588Z",
+								"publishedAt": "2023-11-18T09:49:50.619Z"
+							}
+						},
+						{
+							"id": 2,
+							"attributes": {
+								"title": "Biggest Boomer Moment",
+								"description": "Moments from streams past that made you go :BOOMER:",
+								"type": "link",
+								"createdAt": "2023-11-18T09:49:43.371Z",
+								"updatedAt": "2023-11-18T09:49:47.598Z",
+								"publishedAt": "2023-11-18T09:49:47.595Z"
+							}
+						},
+						{
+							"id": 3,
+							"attributes": {
+								"title": "Best Stream Guest",
+								"description": "The guest stars Atrioc has brought onto the stream who won the hearts and minds of chat.  (ie. punch, aspecticor, etc.) ",
+								"type": "text",
+								"createdAt": "2023-11-18T09:50:12.968Z",
+								"updatedAt": "2023-11-18T09:50:13.794Z",
+								"publishedAt": "2023-11-18T09:50:13.786Z"
+							}
+						},
+						{
+							"id": 4,
+							"attributes": {
+								"title": "The Joeler Award",
+								"description": "best ari moment <3",
+								"type": "link",
+								"createdAt": "2023-11-18T09:50:35.381Z",
+								"updatedAt": "2023-11-18T19:57:36.092Z",
+								"publishedAt": "2023-11-18T09:50:36.840Z"
+							}
+						},
+						{
+							"id": 5,
+							"attributes": {
+								"title": "The Mayfly Meme",
+								"description": "Memes that are born and die in a matter of days",
+								"type": "text",
+								"createdAt": "2023-11-18T09:51:23.612Z",
+								"updatedAt": "2023-11-18T09:51:38.106Z",
+								"publishedAt": "2023-11-18T09:51:38.103Z"
+							}
+						},
+						{
+							"id": 6,
+							"attributes": {
+								"title": "Best Era",
+								"description": null,
+								"type": "text",
+								"createdAt": "2023-11-18T09:52:01.173Z",
+								"updatedAt": "2023-11-18T09:52:02.137Z",
+								"publishedAt": "2023-11-18T09:52:02.135Z"
+							}
+						},
+						{
+							"id": 7,
+							"attributes": {
+								"title": "Best one-off Stream",
+								"description": null,
+								"type": "link",
+								"createdAt": "2023-11-18T09:52:37.594Z",
+								"updatedAt": "2023-11-18T10:02:13.518Z",
+								"publishedAt": "2023-11-18T09:52:38.775Z"
+							}
+						},
+						{
+							"id": 8,
+							"attributes": {
+								"title": "Clip of the Year",
+								"description": null,
+								"type": "link",
+								"createdAt": "2023-11-18T09:52:49.866Z",
+								"updatedAt": "2023-11-18T09:52:50.767Z",
+								"publishedAt": "2023-11-18T09:52:50.764Z"
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"id": 2,
+			"attributes": {
+				"title": "Moosic Categories",
+				"createdAt": "2023-11-18T09:46:42.903Z",
+				"updatedAt": "2023-11-18T09:57:07.541Z",
+				"publishedAt": "2023-11-18T09:46:44.356Z",
+				"color": "52ACFE",
+				"categories": {
+					"data": [
+						{
+							"id": 9,
+							"attributes": {
+								"title": "This is on Your Playlist",
+								"description": "Song from stream you listen to unironically and have put on your actual playlists ",
+								"type": "link",
+								"createdAt": "2023-11-18T09:54:18.572Z",
+								"updatedAt": "2023-11-18T09:54:19.479Z",
+								"publishedAt": "2023-11-18T09:54:19.477Z"
+							}
+						},
+						{
+							"id": 10,
+							"attributes": {
+								"title": "Most Motivational Song",
+								"description": "Songs that inspired moments of divine inspiration and influenced the outcome of the stream",
+								"type": "link",
+								"createdAt": "2023-11-18T09:54:42.237Z",
+								"updatedAt": "2023-11-18T09:54:43.177Z",
+								"publishedAt": "2023-11-18T09:54:43.175Z"
+							}
+						},
+						{
+							"id": 11,
+							"attributes": {
+								"title": "Best Song Era",
+								"description": null,
+								"type": "text",
+								"createdAt": "2023-11-18T09:55:07.694Z",
+								"updatedAt": "2023-11-18T09:55:08.828Z",
+								"publishedAt": "2023-11-18T09:55:08.826Z"
+							}
+						},
+						{
+							"id": 12,
+							"attributes": {
+								"title": "Best Parody Song",
+								"description": "Best stream song that's a parody/cover of a pre-existing song",
+								"type": "link",
+								"createdAt": "2023-11-18T09:55:29.259Z",
+								"updatedAt": "2023-11-18T09:55:30.131Z",
+								"publishedAt": "2023-11-18T09:55:30.129Z"
+							}
+						},
+						{
+							"id": 13,
+							"attributes": {
+								"title": "Best Original Song",
+								"description": "Best stream song with original music and lyrics that's not a parody",
+								"type": "link",
+								"createdAt": "2023-11-18T09:55:50.649Z",
+								"updatedAt": "2023-11-18T09:55:51.356Z",
+								"publishedAt": "2023-11-18T09:55:51.354Z"
+							}
+						},
+						{
+							"id": 14,
+							"attributes": {
+								"title": "Musician of the Year",
+								"description": "Your favorite musician who has released a stream song in the modern era",
+								"type": "text",
+								"createdAt": "2023-11-18T09:56:18.847Z",
+								"updatedAt": "2023-11-18T09:56:20.583Z",
+								"publishedAt": "2023-11-18T09:56:20.581Z"
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"id": 3,
+			"attributes": {
+				"title": "Gaming Categories",
+				"createdAt": "2023-11-18T09:47:05.191Z",
+				"updatedAt": "2023-11-18T10:00:01.018Z",
+				"publishedAt": "2023-11-18T09:47:06.007Z",
+				"color": "A52E1D",
+				"categories": {
+					"data": [
+						{
+							"id": 15,
+							"attributes": {
+								"title": "Worst Puzzle Performance",
+								"description": "Moments of Atrioc playing puzzle games that made you question his (and your) sanity.",
+								"type": "link",
+								"createdAt": "2023-11-18T09:57:44.013Z",
+								"updatedAt": "2023-11-18T09:57:45.968Z",
+								"publishedAt": "2023-11-18T09:57:45.966Z"
+							}
+						},
+						{
+							"id": 16,
+							"attributes": {
+								"title": "Worst Throw",
+								"description": "Atrioc is bad at games sometimes (most of the time).  These clips should be a collection of some of his least skilled moments.",
+								"type": "link",
+								"createdAt": "2023-11-18T09:58:06.174Z",
+								"updatedAt": "2023-11-18T09:58:07.018Z",
+								"publishedAt": "2023-11-18T09:58:07.015Z"
+							}
+						},
+						{
+							"id": 18,
+							"attributes": {
+								"title": "Best Pop Off",
+								"description": "The best celebration as a result of a game.",
+								"type": "link",
+								"createdAt": "2023-11-18T09:58:58.244Z",
+								"updatedAt": "2023-11-18T09:58:59.336Z",
+								"publishedAt": "2023-11-18T09:58:59.334Z"
+							}
+						},
+						{
+							"id": 19,
+							"attributes": {
+								"title": "Best Gaming Moment",
+								"description": null,
+								"type": "link",
+								"createdAt": "2023-11-18T09:59:30.733Z",
+								"updatedAt": "2023-11-18T09:59:31.566Z",
+								"publishedAt": "2023-11-18T09:59:31.563Z"
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"id": 4,
+			"attributes": {
+				"title": "Oldhead Categories",
+				"createdAt": "2023-11-18T09:47:22.936Z",
+				"updatedAt": "2023-11-18T10:03:25.499Z",
+				"publishedAt": "2023-11-18T09:47:24.912Z",
+				"color": "AA6B20",
+				"categories": {
+					"data": [
+						{
+							"id": 20,
+							"attributes": {
+								"title": "Best Vintage Song",
+								"description": "The best piece of music whos impact has lasted well beyond its normal lifetime (Pre-Jan 2022).",
+								"type": "link",
+								"createdAt": "2023-11-18T10:00:32.416Z",
+								"updatedAt": "2023-11-18T10:00:34.579Z",
+								"publishedAt": "2023-11-18T10:00:34.576Z"
+							}
+						},
+						{
+							"id": 21,
+							"attributes": {
+								"title": "Best Vintage Moment",
+								"description": "The story your grandparents still tell you about to this day. The best moment\\ of Atrioc previous to Jan 2022.",
+								"type": "link",
+								"createdAt": "2023-11-18T10:00:51.856Z",
+								"updatedAt": "2023-11-18T10:00:56.828Z",
+								"publishedAt": "2023-11-18T10:00:56.826Z"
+							}
+						},
+						{
+							"id": 23,
+							"attributes": {
+								"title": "I Miss the old Atrioc Award",
+								"description": "The best era of the Atrioc stream before Jan 2022.",
+								"type": "link",
+								"createdAt": "2023-11-18T10:02:01.277Z",
+								"updatedAt": "2023-11-18T10:02:02.077Z",
+								"publishedAt": "2023-11-18T10:02:02.075Z"
+							}
+						},
+						{
+							"id": 24,
+							"attributes": {
+								"title": "Lifetime Achievement Award",
+								"description": "Chatter whose impact will be felt for generations.",
+								"type": "text",
+								"createdAt": "2023-11-18T10:02:49.488Z",
+								"updatedAt": "2023-11-18T10:02:50.259Z",
+								"publishedAt": "2023-11-18T10:02:50.258Z"
+							}
+						}
+					]
+				}
+			}
+		},
+		{
+			"id": 5,
+			"attributes": {
+				"title": "Chatter Categories",
+				"createdAt": "2023-11-18T09:47:43.507Z",
+				"updatedAt": "2023-11-18T10:06:02.232Z",
+				"publishedAt": "2023-11-18T09:47:44.295Z",
+				"color": "47A170",
+				"categories": {
+					"data": [
+						{
+							"id": 25,
+							"attributes": {
+								"title": "Best High Effort Moment",
+								"description": "Moments where Chatters have gone above and beyond in exceeding expectations for the bit.",
+								"type": "link",
+								"createdAt": "2023-11-18T10:04:10.800Z",
+								"updatedAt": "2023-11-18T10:04:11.689Z",
+								"publishedAt": "2023-11-18T10:04:11.687Z"
+							}
+						},
+						{
+							"id": 26,
+							"attributes": {
+								"title": "Best Ban",
+								"description": "Get Banned.",
+								"type": "link",
+								"createdAt": "2023-11-18T10:04:24.128Z",
+								"updatedAt": "2023-11-18T10:04:24.880Z",
+								"publishedAt": "2023-11-18T10:04:24.876Z"
+							}
+						},
+						{
+							"id": 27,
+							"attributes": {
+								"title": "Rotten Brain Award",
+								"description": "Moments of extreme brainrot from chatters.",
+								"type": "link",
+								"createdAt": "2023-11-18T10:04:47.006Z",
+								"updatedAt": "2023-11-18T10:04:47.840Z",
+								"publishedAt": "2023-11-18T10:04:47.838Z"
+							}
+						},
+						{
+							"id": 28,
+							"attributes": {
+								"title": "Most Enlighted Chatter",
+								"description": "Chatters who have gone out of their way to help other community members.",
+								"type": "link",
+								"createdAt": "2023-11-18T10:05:08.831Z",
+								"updatedAt": "2023-11-18T10:05:09.727Z",
+								"publishedAt": "2023-11-18T10:05:09.725Z"
+							}
+						}
+					]
+				}
+			}
+		}
+	],
+	"meta": {
+		"pagination": {
+			"page": 1,
+			"pageSize": 25,
+			"pageCount": 1,
+			"total": 5
+		}
+	}
+}
