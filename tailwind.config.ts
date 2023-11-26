@@ -9,9 +9,16 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'desktop-background': "url('/desktop-background.png')",
+        'mobile-background': "url('/mobile-background.png')",
+      },
+      colors: {
+        'light-gray': '#f1f1f1',
+        'very-light-purple': '#c6b3e2',
+        'light-purple': '#967ac3',
+        'medium-purple': '#7f65bb',
+        'dark-purple': '#604a8f',
+        'dark-blue': '#0e212e',
       },
     },
   },
